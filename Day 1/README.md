@@ -22,7 +22,7 @@ Using all the skills that I learnt in today's lecture, I am proud to announce th
 
 ##### Screenshot
 
-![Brand Name Generator](images/d1.jpg)
+![Brand Name Generator](images/d1.JPG)
 
 # Conclusion
 
