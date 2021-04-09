@@ -1,6 +1,6 @@
 # Day-5
 
-**Hard work and Perseverance beats raw talent!! **. **Loops** was today's topic, wonderfully explain by [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
+**Hard work and Perseverance beats raw talent!!**. **Loops** was today's topic, wonderfully explain by [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
 
 ### What did I learn?
 
