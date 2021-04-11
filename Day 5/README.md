@@ -1,6 +1,6 @@
-# Day-4
+# Day-5
 
-**Hard work and Perseverance beats raw talent!! **. **Loops** was today's topic, wonderfully explain by [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
+**Hard work and Perseverance beats raw talent!!**. **Loops** was today's topic, wonderfully explain by [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
 
 ### What did I learn?
 
@@ -26,3 +26,5 @@ To conclude, I would thank my instructor for being such a wonderful teacher for 
 ### Suggestion
 
 - For all those who can understand English in a fast pace and catch up what the instructor is trying to convey can choose to watch the video at **1.2x** speed which reduces the watch time and meanwhile you can keep the remaining time for practice.
+
+#### Date: 9/4/2021
