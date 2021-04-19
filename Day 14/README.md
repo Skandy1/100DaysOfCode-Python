@@ -15,7 +15,7 @@
 
 ##### Screenshot
 
-![Higher Lower](/images/d14.JPG)
+![Higher Lower](images/d14.JPG)
 
 
 
