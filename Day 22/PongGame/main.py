@@ -27,7 +27,7 @@ screen_obj.onkeypress(key="Down", fun=paddle_1.move_down)
 screen_obj.onkeypress(key="w", fun=paddle_2.move_up)
 screen_obj.onkeypress(key="s", fun=paddle_2.move_down)
 # driver code
-time.sleep(5)
+time.sleep(2)
 is_on = True
 while is_on:
     time.sleep(ball.move_speed)
