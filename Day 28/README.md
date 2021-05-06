@@ -26,4 +26,4 @@ To conclude, I would thank my instructor for being such a wonderful teacher for 
 
 - For all those who can understand English in a fast pace and catch up what the instructor is trying to convey can choose to watch the video at **1.2x** speed which reduces the watch time and meanwhile you can keep the remaining time for practice.
 
-##### Date - 3/5/2021
+##### Date - 4/5/2021
