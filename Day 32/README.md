@@ -18,7 +18,7 @@
 
 ##### Screenshot
 
-![Birthday Wisher](images/d32.jpg)
+![Birthday Wisher](images/d32.JPG)
 
 
 
