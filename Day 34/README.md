@@ -1,6 +1,6 @@
 # Day-34
 
-  **~Don't waste time on stuff that don't work your way~** Today's topics was **Quiz App using TRIVIA API** in python, which was wonderfully explained by   [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/). 
+  **Don't waste time on stuff that don't work your way** Today's topics was **Quiz App using TRIVIA API** in python, which was wonderfully explained by   [Dr.Angelea Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/). 
 
 ### What did I use?
 
