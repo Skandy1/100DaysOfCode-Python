@@ -13,7 +13,7 @@
 
 **Exercise Tracker** using the above mentioned topics. You can checkout my code [here](ExerciseTracker/main.py). You can also clone and run on local machine using an IDE. 
 
-**:information_source: You will need to enter your own API KEY/ Token in [keys.py](ExerciseTracker/keys.py) file **
+**:information_source: You will need to enter your own API KEY/ Token in [keys.py](ExerciseTracker/keys.py) file**
 
 ##### Screenshot
 
