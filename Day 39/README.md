@@ -14,7 +14,7 @@
 
 **Flight Deal Finder - 1** using the above mentioned topics. You can checkout my code [here](FlightDeal/main.py). You can also clone and run on local machine using an IDE. 
 
-**:information_source: You will need to enter your own API KEY/ Token in [keys.py](FlightDeal/keys.py) file **
+**:information_source: You will need to enter your own API KEY/ Token in [keys.py](FlightDeal/keys.py) file**
 
 ##### Screenshot
 
