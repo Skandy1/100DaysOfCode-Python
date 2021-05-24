@@ -30,7 +30,7 @@
 
 ##### Screenshot
 
-![Website](images/d42.jpg)
+![Website](images/d42.JPG)
 
 # Conclusion
 
