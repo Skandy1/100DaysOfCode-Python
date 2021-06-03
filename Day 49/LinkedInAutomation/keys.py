@@ -1,0 +1,5 @@
+chrome_driver_path= # YOUR CHROME DRIVER PATH
+job_search_url= # YOUR JOB SEARCH URL WITH PREFERENCES
+linkedIn_login_page= # LINKEDIN LOGIN PAGE URL
+username= # YOUR LINKEDIN USERNAME
+password= # YOUR LINKEDIN PASSWORD
