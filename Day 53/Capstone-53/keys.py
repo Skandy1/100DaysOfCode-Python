@@ -1,0 +1,7 @@
+FORM_LINK="" # YOUR GOOGLE FORM LINK
+ZILLOW_LINK="" # ZILLOW LINK WITH PREFERENCES
+CHROME_DRIVER_PATH="" # YOUR CHROME DIRVER PATH
+ZILLOW_HEADER={
+    'User-Agent':"", # GET YOUR USER-AGENT FROM http://www.myhttpheader.com/
+    'Accept-Language':"",# GET YOUR ACCEPT-LANGUAGE FROM http://www.myhttpheader.com/
+}
