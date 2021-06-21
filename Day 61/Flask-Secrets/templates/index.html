@@ -1,0 +1,17 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %} Secrets {% endblock  %}
+{% block styles %}
+{{super()}}
+<link rel="stylesheet"
+      href="{{url_for('.static', filename='styles.css')}}">
+{% endblock %}
+{% block content %}
+<div id="div1" class="container-fluid ">
+    <h1>Welcome</h1>
+    <p>Are you ready to discover my secret?</p>
+    <form action="{{ url_for('login_page')  }}">
+        <button class="btn btn-primary btn-lg" type="submit">Login</button>
+    </form>
+</div>
+{% endblock %}
